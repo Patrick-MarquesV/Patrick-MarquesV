@@ -11,8 +11,10 @@
 
 <div style="display: inline_block"> <br>
   <a href="https://github.com/Patrick-MarquesV">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrick-MarquesV&count_private=true&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-MarquesV&theme=radical&layout=compact"/>
+  <p>
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Patrick-MarquesV&show_icons=true&theme=radical&locale=en&layout=compact" alt="Patrick-MarquesV" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Patrick-MarquesV&show_icons=true&theme=dracula&locale=en" alt="Patrick-MarquesV" />
+  </p>
  </div>
 
 ##
