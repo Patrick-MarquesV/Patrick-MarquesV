@@ -1,35 +1,28 @@
-## Olá, eu sou o Patrick Marques
+**Hey there! 👋 I'm Patrick.**
 
-- 👋 Aprendiz back-end Java atravez do programa 1000Devs da Johnson & Johnson em parceria com a mesttra.
-- 👀 I’m interested in solving all kinds of problems.
-- 🌱 I’m currently learning Java, Spring Boot, PostgreSQL and API REST.
+I'm a passionate ASP.NET developer with experience supporting and enhancing complex web applications in the identity governance and administration (IGA) domain.   
 
+I'm currently working on exciting projects that utilize my skills in .NET and Java.
 
-##
+**Here's a glimpse into what I'm working on:**
 
-- 🖖 Git status:
+* 🚀 Developing and maintaining robust web applications to streamline IGA workflows.
+* 🤝 Collaborating with cross-functional teams to ensure high-quality solutions.
+* 🧠 Continuously learning and adopting new technologies to elevate my development expertise.
 
-<div style="display: inline_block"> <br>
-  <a href="https://github.com/Patrick-MarquesV">
-  <p>
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Patrick-MarquesV&show_icons=true&theme=radical&locale=en&layout=compact" alt="Patrick-MarquesV" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Patrick-MarquesV&show_icons=true&theme=dracula&locale=en" alt="Patrick-MarquesV" />
-  </p>
- </div>
+**What I'm passionate about:**
 
-##
-  
-- 🛠️ Tool box:  
-  
-<div style="display: inline_block"> <br>
-  <img align="center" alt="Java" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="JavaScript" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="PostgreSQL" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="center" alt="CSS" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="HTML" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
- </div>
-  
-##
+* 🔥 Building efficient and user-friendly applications that empower users.
+* 🛠️ Crafting clean, maintainable, and well-documented code.
+* 👥 Contributing to a collaborative and innovative development environment.
+
+**Let's connect!**
+
+I'm always interested in expanding my network and learning from others. Feel free to reach out if you:
+
+* Have any questions about my projects or experiences.
+* Want to discuss ASP.NET, Java, or IGA in general.
+* Simply want to connect with a fellow developer!
 
 - 📫 How to reach me:
  
